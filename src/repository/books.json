@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "author": "Harper Lee",
+        "title": "To Kill a Mockingbird"
+    },
+    {
+        "id": 2,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby"
+    },
+    {
+        "id": 3,
+        "author": "Chinua Achebe",
+        "title": "Things Fall Apart"
+    },
+    {
+        "id": 9,
+        "author": "Yuval Noah Harari",
+        "title": "Sapiens: A Brief History of Humankind"
+    },
+    {
+        "id": 10,
+        "author": "JSON",
+        "title": "Repository"
+    },
+    {
+        "id": 11,
+        "author": "Lupu Eduard",
+        "title": "Ed"
+    },
+    {
+        "id": 23,
+        "author": "ABC",
+        "title": "Lupu"
+    }
+]

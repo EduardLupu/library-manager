@@ -1,0 +1,23 @@
+[
+    {
+        "rental_id": 1,
+        "book_id": 2,
+        "client_id": 3,
+        "rent_date": "01.12.2021",
+        "returned_date": "01.12.2021"
+    },
+    {
+        "rental_id": 2,
+        "book_id": 5,
+        "client_id": 2,
+        "rent_date": "06.02.2021",
+        "returned_date": "01.12.2021"
+    },
+    {
+        "rental_id": 3,
+        "book_id": 6,
+        "client_id": 5,
+        "rent_date": "09.12.2020",
+        "returned_date": "30.11.2021"
+    }
+]

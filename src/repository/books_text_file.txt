@@ -1,0 +1,12 @@
+1, Harper Lee, To Kill a Mockingbird
+2, F. Scott Fitzgerald, The Great Gatsby
+3, Chinua Achebe, Things Fall Apart
+4, J.K. Rowling, Harry Potter and the Prisoner of Azkaban
+5, J.K. Rowling, Harry Potter and the Prisoner of Azkaban
+7, J.K. Rowling, Harry Potter and the Chamber of Secrets
+8, Robert Greene, The 48 Laws of Power
+9, Yuval Noah Harari, Sapeins: A Brief History of Humankind
+10, Robert Kiyosaki, Rich Dad Poor Dad
+11, Jordan B. Peterson, 12 Rules for Life: An Antidote to Chaos
+6, J.K. Rowling, Harry Potter and the Philosopher's Stone
+40, Text, Files
